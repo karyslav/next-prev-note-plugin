@@ -4,4 +4,4 @@ Use at your own risk!
 I have no idea what I am doing but I am doing it with love.
 
 Installation:
-Copy the whole folder of the plugin into your Obsidian MD folder, where your community plugins are.
+Copy the whole folder of repository (next-prev-note-plugin) the plugin into your Obsidian MD folder, where your community plugins are.
