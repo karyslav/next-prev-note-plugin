@@ -1,0 +1,9 @@
+{
+  "id": "next-prev-note-plugin",
+  "name": "Previous and next notes in directory",
+  "version": "0.0.1",
+  "description": "Lets switch between notes in the same directory",
+  "author": "Tomas Sobel",
+  "authorUrl": "https://sobel.cz",
+  "isDesktopOnly": true
+}
