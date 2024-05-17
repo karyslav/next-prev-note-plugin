@@ -8,3 +8,9 @@ I have no idea what I am doing but I am doing it with love.
 
 Installation:
 Copy the whole folder of repository (next-prev-note-plugin) the plugin into your Obsidian MD folder, where your community plugins are.
+
+Prev/next accesible via buttons on the side ribbon, and also ctrl-shift-left/right on a computer.
+Plugin is only for desktop mode at the time.
+
+https://github.com/karyslav/next-prev-note-plugin/assets/11192851/65a7dd60-6891-4fa0-be7b-2323a56b87be
+
